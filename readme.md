@@ -10,6 +10,7 @@ You can see it in action on [ai.dbanswan.com](https://ai.dbanswan.com).
 
 1. This component assumes you are using Next.js, but you can easily modify it to work with any other React project. (remove Link and prefetch etc replace with a tags)
 2. You have bit of experience with Tailwind CSS (to play around with the styles).
+3. Goes without saying it is not a one size fits all solution, you might need to tweak it a bit to fit your needs.
 
 ## Few Images
 
